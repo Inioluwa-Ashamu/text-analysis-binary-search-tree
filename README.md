@@ -1,4 +1,4 @@
-# Text Analysis Binary Search Tree
+# BST Text Indexer
 
 C# text-indexing application built around a binary search tree. The app parses a text file, indexes unique words, tracks line occurrences, and exposes search and summary operations through a console interface.
 
